@@ -9,7 +9,8 @@
   
 
 ## Parent Server:
-![main-server](https://github.com/Selim1710/One_Server_TO_Another_Data_Passing/assets/93088169/f7808cb3-f187-4c5b-b02e-09dc115ba867)
+![main-server](https://github.com/Selim1710/One_Server_TO_Another_Data_Passing/assets/93088169/2624ffb1-0312-4315-b6a0-67d39fccb550)
+
 
 ## Child Server:
 ![child-server-1](https://github.com/Selim1710/One_Server_TO_Another_Data_Passing/assets/93088169/4ead3799-8a90-43d2-bfb6-68dcbe24d32e)
