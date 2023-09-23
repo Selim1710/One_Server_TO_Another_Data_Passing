@@ -1,6 +1,6 @@
 <h3 align="center"> Sending data from child server to parent server </h3>
 
-# Step:
+# Steps:
 
 * install yajra data table in parent server
 * copy route, controller, resouces, data-table(app>>DataTables>>datatable) from this project and paste it into parent server code.
